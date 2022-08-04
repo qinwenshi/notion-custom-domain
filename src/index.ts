@@ -4,7 +4,7 @@ import { URL } from 'url';
 import path from 'path';
 
 const {
-  PAGE_URL = 'https://thoughtfulness.notion.site/241d5a41a4124930812e44c7208508c6',
+  PAGE_URL = 'https://thoughtfulness.notion.site/BTS-149ba618fe044d1da9f371f42190e8a8',
   GA_TRACKING_ID,
 } = process.env;
 
